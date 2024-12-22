@@ -101,7 +101,7 @@ Contributions are welcome! 🎉 If you’d like to add new visualizations or sug
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use the code and content for personal or educational purposes.
+This project is licensed under the [GNU General Public License v3.0](LICENSE). Feel free to use the code and content for personal or educational purposes.
 
 ---
 
